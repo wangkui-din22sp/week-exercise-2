@@ -1,5 +1,5 @@
 name: WangKui_workflow_codes_for_Assignemnt_Bundle_O
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: hahahaha ${{ github.actor }} is testing out workflow codes 🚀
 on: [push]
 jobs:
   WangKui_workflow_codes_for_Assignemnt_Bundle_O:

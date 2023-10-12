@@ -13,4 +13,4 @@ jobs:
       - name: run the npm test command to test the code 
         run: |
           npm install
-          npm run test
+          npm test

@@ -12,4 +12,5 @@ jobs:
           node-version: '20.x'
       - name: run the npm test command to test the code 
         run: |
+          npm install
           npm test

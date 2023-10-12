@@ -1,8 +1,8 @@
-name: Workflow_codes_for_Assignemnt_Bundle_O
+name: WangKui_workflow_codes_for_Assignemnt_Bundle_O
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
-  Workflow codes for Assignemnt Bundle O:
+  WangKui_workflow_codes_for_Assignemnt_Bundle_O:
     runs-on: ubuntu-latest
     steps:
       - name: run the npm test command to test the code 

@@ -1,4 +1,4 @@
-name: Workflow codes for Assignemnt Bundle O
+name: Workflow_codes_for_Assignemnt_Bundle_O
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:

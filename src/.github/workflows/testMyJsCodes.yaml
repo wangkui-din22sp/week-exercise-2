@@ -1,0 +1,9 @@
+name: Workflow codes for Assignemnt Bundle O
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+on: [push]
+jobs:
+  Workflow codes for Assignemnt Bundle O:
+    runs-on: ubuntu-latest
+    steps:
+      - name: run the npm test command to test the code 
+        run: npm test
